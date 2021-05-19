@@ -8,7 +8,7 @@
 
 .header {
   width: 100%;
-  height: 100vh;
+  height: 100%;
   background-image: url(../../images/header/header__bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
