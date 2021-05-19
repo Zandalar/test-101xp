@@ -1,0 +1,22 @@
+.header__button {
+  width: 565px;
+  height: 234px;
+  background-image: url(../../../images/BTN_play_normal.png);
+  background-color: rgba(255, 255, 255, 0);
+  background-size: contain;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.header__button:hover {
+  background-image: url(../../../images/BTN_play_hover.png);
+  cursor: pointer;
+}
+
+.header__button:active {
+  background-image: url(../../../images/BTN_play_active.png);
+}

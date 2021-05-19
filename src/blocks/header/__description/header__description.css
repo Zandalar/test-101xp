@@ -1,0 +1,9 @@
+.header__description {
+  width: 942px;
+  font-size: 24px;
+  font-family: Lora, Arial, Helvetica, sans-serif;
+  color: rgb(238, 238, 238);
+  line-height: 1.5;
+  text-align: center;
+  margin: 0;
+}
