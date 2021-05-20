@@ -1,0 +1,24 @@
+@import url(./__button/_isolda/chars__button_isolda.css);
+@import url(./__button/_lleyn/chars__button_lleyn.css);
+@import url(./__button/_pamela/chars__button_pamela.css);
+@import url(./__button/chars__button.css);
+@import url(./__list/chars__list.css);
+@import url(./__skills/chars__skills.css);
+@import url(./__skills-item/chars__skills-item.css);
+@import url(./__skills-image/chars__skills-image.css);
+@import url(./__skills-name/chars__skills-name.css);
+@import url(./__skills-description/chars__skills-description.css);
+@import url(./__container/chars__container.css);
+@import url(./__skills-info/chars__skills-info.css);
+@import url(./__fraction/chars__fraction.css);
+@import url(./__fraction-name/chars__fraction-name.css);
+
+.chars {
+  width: 100%;
+  background-image: url(../../images/chars/chars_bg_Isolda.jpg);
+  background-position: center center;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

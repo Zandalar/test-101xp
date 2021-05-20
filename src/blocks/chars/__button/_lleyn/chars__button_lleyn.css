@@ -1,0 +1,11 @@
+.chars__button_lleyn {
+  background-image: url(../../../../images/chars/chars_icon_Lleyn_inactive.png);
+  background-color: transparent;
+  background-size: contain;
+  background-position: center;
+}
+
+.chars__button_lleyn:hover {
+  background-image: url(../../../../images/chars/chars_icon_Lleyn_hover.png);
+  cursor: pointer;
+}

@@ -1,0 +1,8 @@
+.chars__skills-info {
+  height: 58px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 5px 0 5px 10px;
+  box-sizing: border-box;
+}

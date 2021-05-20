@@ -3,13 +3,14 @@
 @import url(./__description/header__description.css);
 @import url(./__logo/header__logo.css);
 @import url(./__title/header__title.css);
-@import url(./__button-image/header__button-image.css);
 @import url(./__button-next/header__button-next.css);
 
 .header {
   width: 100%;
   height: 100%;
   background-image: url(../../images/header/header__bg.jpg);
+  background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
+  background-origin: border-box;
 }

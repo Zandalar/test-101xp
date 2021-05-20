@@ -1,0 +1,12 @@
+.slider__item {
+  position: absolute;
+  width: 100%;
+  height: 949px;
+  transition: all ease 0.5s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+}

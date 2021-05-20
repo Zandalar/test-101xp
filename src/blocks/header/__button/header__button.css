@@ -2,7 +2,7 @@
   width: 565px;
   height: 234px;
   background-image: url(../../../images/BTN_play_normal.png);
-  background-color: rgba(255, 255, 255, 0);
+  background-color: transparent;
   background-size: contain;
   background-position: center;
   margin: 0;

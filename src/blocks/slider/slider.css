@@ -1,0 +1,17 @@
+@import url(./__image/slider__image.css);
+@import url(./__item/slider__item.css);
+@import url(./__item/_next/slider__item_next.css);
+@import url(./__item/_previous/slider__item_previous.css);
+@import url(./__isolda/slider__isolda.css);
+@import url(./__lleyn/slider__lleyn.css);
+@import url(./__pamela/slider__pamela.css);
+
+.slider {
+  width: 100%;
+  height: 949px;
+  box-sizing: border-box;
+  display: flex;
+  overflow: hidden;
+  margin-bottom: 50px;
+  position: relative;
+}

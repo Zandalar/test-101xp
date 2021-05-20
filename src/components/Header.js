@@ -1,5 +1,4 @@
 import React from 'react';
-// import btn_play_normal from '../images/BTN_play_normal.png';
 import title from '../images/header/header__title.png';
 import logo from '../images/header/header__logo.png';
 
@@ -10,7 +9,6 @@ function Header() {
         <img className='header__logo' src={logo} alt='Angels League logo'/>
         <img className='header__title' src={title} alt='Angels League title'/>
         <button className='header__button' type='button' />
-          {/*<img className='header__button-image' src={btn_play_normal} alt='#'/>*/}
         <p className='header__description'>
           Судьба планеты ангелов в твоих руках!
           Древнее зло вырвалось из глубины преисподней,
