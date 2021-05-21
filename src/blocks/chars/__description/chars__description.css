@@ -1,0 +1,7 @@
+.chars__description {
+  font-size: 24px;
+  font-family: Lora, Arial, Helvetica, sans-serif;
+  color: rgb(249, 244, 233);
+  line-height: 1.5;
+  text-shadow: 0 5px 30px rgba(35, 27, 32, 0.004);
+}

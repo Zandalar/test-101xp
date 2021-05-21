@@ -1,3 +1,4 @@
 .chars__fraction {
   display: flex;
+  align-items: center;
 }

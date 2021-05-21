@@ -14,7 +14,7 @@ function Chars({ name,
                }) {
   return (
     <section className='chars'>
-      <img className='chars__image' src={chars_title} alt='title' />
+      <img className='chars__title' src={chars_title} alt='title' />
       <div className='chars__container'>
         <div className='chars__about'>
           <img className='chars__name' src={isolda_name} alt={name} />
@@ -60,6 +60,15 @@ function Chars({ name,
           </li>
         </ul>
       </div>
+      <p className='chars__story'>
+        60 наемников с неповторимой историей и сотни возможностей для
+        построения команды ждут тебя! Система связей между персонажами —
+        важная часть игрового сюжета и тонкий механизм настройки
+        боевого отряда. Выбери свою фракцию и получай бонусы к мощи!
+      </p>
+      <button className='chars__button-next' type='button' />
+      <button className='chars__button-next chars__button-next_left' type='button' />
+      <button className='chars__button-next chars__button-next_right' type='button' />
     </section>
   )
 }

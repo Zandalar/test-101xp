@@ -12,6 +12,15 @@
 @import url(./__skills-info/chars__skills-info.css);
 @import url(./__fraction/chars__fraction.css);
 @import url(./__fraction-name/chars__fraction-name.css);
+@import url(./__story/chars__story.css);
+@import url(./__description/chars__description.css);
+@import url(./__about/chars__about.css);
+@import url(./__title/chars__title.css);
+@import url(./__list-item/chars__list-item.css);
+@import url(./__name/chars__name.css);
+@import url(./__button-next/chars__button-next.css);
+@import url(./__button-next/_left/chars__button-next_left.css);
+@import url(./__button-next/_right/chars__button-next_right.css);
 
 .chars {
   width: 100%;
@@ -21,4 +30,5 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  position: relative;
 }

@@ -1,0 +1,6 @@
+.chars__button-next_left {
+  position: absolute;
+  transform: rotate(90deg) translate(-50%);
+  top: 50%;
+  left: 0;
+}

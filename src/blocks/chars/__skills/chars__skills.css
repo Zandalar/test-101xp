@@ -1,6 +1,6 @@
 .chars__skills {
   display: grid;
-  grid-template-columns: max-content;
+  grid-template-columns: 100%;
   grid-row-gap: 25px;
   list-style: none;
   margin: 0;

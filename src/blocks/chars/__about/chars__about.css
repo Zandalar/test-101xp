@@ -1,0 +1,8 @@
+.chars__about {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 40px;
+  box-sizing: border-box;
+}

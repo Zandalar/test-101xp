@@ -2,64 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5173a72-d049-4afb-93fd-0960824ef860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__button/_isolda/chars__button_isolda.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__button/_lleyn/chars__button_lleyn.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__button/_pamela/chars__button_pamela.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__button/chars__button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__container/chars__container.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__fraction-name/chars__fraction-name.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__fraction/chars__fraction.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__list/chars__list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__skills-description/chars__skills-description.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__skills-image/chars__skills-image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__skills-info/chars__skills-info.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__skills-item/chars__skills-item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__skills-name/chars__skills-name.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__skills/chars__skills.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/chars.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/slider/__image/slider__image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/slider/__isolda/slider__isolda.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/slider/__item/_next/slider__item_next.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/slider/__item/_previous/slider__item_previous.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/slider/__item/slider__item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/slider/__lleyn/slider__lleyn.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/slider/__pamela/slider__pamela.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/slider/slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Chars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SliderItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_bg_Isolda.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_bg_Lleyn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_bg_Pamela.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_fraction_Isolda.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_fraction_Lleyn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_fraction_Pamela.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_head.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_icon_Isolda_active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_icon_Isolda_hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_icon_Isolda_inactive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_icon_Lleyn_active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_icon_Lleyn_hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_icon_Lleyn_inactive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_icon_Pamela_active.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_icon_Pamela_hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_icon_Pamela_inactive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_name_Isolda.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_name_Lleyn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_name_Pamela.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_skill_Isolda_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_skill_Isolda_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_skill_Lleyn_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_skill_Lleyn_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_skill_Pamela_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/chars/chars_skill_Pamela_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__about/chars__about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__button-next/_left/chars__button-next_left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__button-next/_right/chars__button-next_right.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__button-next/chars__button-next.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__description/chars__description.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__list-item/chars__list-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__name/chars__name.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__story/chars__story.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__title/chars__title.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/header/__button-image/header__button-image.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/header/__button/header__button.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/header/__button/header__button.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/chars/__container/chars__container.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/__container/chars__container.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/chars/__fraction-name/chars__fraction-name.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/__fraction-name/chars__fraction-name.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/chars/__fraction/chars__fraction.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/__fraction/chars__fraction.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/chars/__list/chars__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/__list/chars__list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/chars/__skills/chars__skills.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/__skills/chars__skills.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/chars/chars.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/chars.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Chars.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chars.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +91,7 @@
       <recent name="C:\Users\v.masich\Documents\dev\test-101xp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\v.masich\Documents\dev\test-101xp\src\blocks\chars\__description" />
       <recent name="C:\Users\v.masich\Documents\dev\test-101xp\src\components" />
     </key>
   </component>
@@ -159,6 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621424347813</updated>
       <workItem from="1621424348997" duration="8276000" />
+      <workItem from="1621581095568" duration="6582000" />
     </task>
     <servers />
   </component>
