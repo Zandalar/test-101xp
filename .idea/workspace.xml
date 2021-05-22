@@ -2,23 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5173a72-d049-4afb-93fd-0960824ef860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__about/chars__about.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__button-next/_left/chars__button-next_left.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__button-next/_right/chars__button-next_right.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__button-next/chars__button-next.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__description/chars__description.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__list-item/chars__list-item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__name/chars__name.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__story/chars__story.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__title/chars__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__button/_isolda-active/chars__button_isolda-active.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__button/_lleyn-active/chars__button_lleyn-active.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__button/_pamela-active/chars__button_pamela-active.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__fraction-name/_isolda/chars__fraction-name_isolda.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__fraction-name/_lleyn/chars__fraction-name_lleyn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/chars/__fraction-name/_pamela/chars__fraction-name_pamela.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/chars/_isolda/chars_isolda.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/chars/_lleyn/chars_lleyn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/chars/_pamela/chars_pamela.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/chars.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/chars/__container/chars__container.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/__container/chars__container.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/chars/__button/_isolda/chars__button_isolda.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/__button/_isolda/chars__button_isolda.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/chars/__button/_lleyn/chars__button_lleyn.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/__button/_lleyn/chars__button_lleyn.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/chars/__button/_pamela/chars__button_pamela.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/__button/_pamela/chars__button_pamela.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/chars/__button/chars__button.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/__button/chars__button.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blocks/chars/__fraction-name/chars__fraction-name.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/__fraction-name/chars__fraction-name.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/chars/__fraction/chars__fraction.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/__fraction/chars__fraction.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blocks/chars/__list/chars__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/__list/chars__list.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/chars/__skills/chars__skills.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/__skills/chars__skills.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/chars/__name/chars__name.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/__name/chars__name.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blocks/chars/chars.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/chars.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/slider/__image/slider__image.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/slider/__isolda/slider__isolda.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/slider/__item/_next/slider__item_next.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/slider/__item/_previous/slider__item_previous.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/slider/__item/slider__item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/slider/__lleyn/slider__lleyn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/slider/__pamela/slider__pamela.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/slider/slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Chars.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SliderItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +44,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -75,23 +91,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../d52" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/blocks/chars/__fraction-name" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-win-x64/node" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\v.masich\Documents\dev\test-101xp\src\blocks" />
-      <recent name="C:\Users\v.masich\Documents\dev\test-101xp\src\components" />
+      <recent name="C:\Users\ge0de\dev\test-101xp\src\blocks\chars\__fraction-name" />
       <recent name="C:\Users\v.masich\Documents\dev\test-101xp\src\vendor" />
       <recent name="C:\Users\v.masich\Documents\dev\test-101xp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\v.masich\Documents\dev\test-101xp\src\blocks\chars\__description" />
       <recent name="C:\Users\v.masich\Documents\dev\test-101xp\src\components" />
     </key>
   </component>
@@ -119,7 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621424347813</updated>
       <workItem from="1621424348997" duration="8276000" />
-      <workItem from="1621581095568" duration="6582000" />
+      <workItem from="1621443313094" duration="831000" />
     </task>
     <servers />
   </component>
@@ -140,5 +155,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

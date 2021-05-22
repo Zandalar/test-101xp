@@ -1,6 +1,9 @@
 @import url(./__button/_isolda/chars__button_isolda.css);
 @import url(./__button/_lleyn/chars__button_lleyn.css);
 @import url(./__button/_pamela/chars__button_pamela.css);
+@import url(./__button/_isolda-active/chars__button_isolda-active.css);
+@import url(./__button/_pamela-active/chars__button_pamela-active.css);
+@import url(./__button/_lleyn-active/chars__button_lleyn-active.css);
 @import url(./__button/chars__button.css);
 @import url(./__list/chars__list.css);
 @import url(./__skills/chars__skills.css);
@@ -21,6 +24,9 @@
 @import url(./__button-next/chars__button-next.css);
 @import url(./__button-next/_left/chars__button-next_left.css);
 @import url(./__button-next/_right/chars__button-next_right.css);
+@import url(./__fraction-name/_pamela/chars__fraction-name_pamela.css);
+@import url(./__fraction-name/_lleyn/chars__fraction-name_lleyn.css);
+@import url(./__fraction-name/_isolda/chars__fraction-name_isolda.css);
 
 .chars {
   width: 100%;

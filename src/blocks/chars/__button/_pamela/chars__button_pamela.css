@@ -1,8 +1,5 @@
 .chars__button_pamela {
   background-image: url(../../../../images/chars/chars_icon_Pamela_inactive.png);
-  background-color: transparent;
-  background-size: contain;
-  background-position: center;
 }
 
 .chars__button_pamela:hover {

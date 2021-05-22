@@ -2,6 +2,7 @@
   font-size: 21px;
   font-family: Lora, Arial, Helvetica, sans-serif;
   color: rgb(255, 50, 58);
+  text-shadow: 0 5px 30px rgba(35, 27, 32, 0.004);
   margin: 0;
   padding: 0 0 0 10px;
 }
