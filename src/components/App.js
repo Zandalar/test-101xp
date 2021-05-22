@@ -2,6 +2,7 @@ import React, {useState} from 'react';
 import Header from './Header';
 import Chars from './Chars';
 import {characters} from '../utils/chars';
+import Video from './Video';
 
 function App() {
   const [activeIndex, setActiveIndex] = useState(0);
@@ -90,6 +91,7 @@ function App() {
     <div className="app">
       <Header />
       {chars[activeIndex]}
+      <Video />
     </div>
   );
 }

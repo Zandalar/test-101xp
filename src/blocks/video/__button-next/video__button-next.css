@@ -1,0 +1,21 @@
+.video__button-next {
+  width: 102px;
+  height: 66px;
+  background-image: url(../../../images/BTN_scroll_normal.png);
+  background-color: transparent;
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  border: 0;
+  box-sizing: border-box;
+  z-index: 1;
+}
+
+.video__button-next:hover {
+  background-image: url(../../../images/BTN_scroll_hover.png);
+  cursor: pointer;
+}
+
+.video__button-next:active {
+  background-image: url(../../../images/BTN_scroll_active.png);
+}

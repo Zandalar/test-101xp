@@ -1,0 +1,31 @@
+@import url(./__button-next/video__button-next.css);
+@import url(./__button-play/video__button-play.css);
+@import url(./__movie/video__movie.css);
+@import url(./__story/video__story.css);
+@import url(./__title/video__title.css);
+@import url(./__container/video__container.css);
+
+.video {
+  width: 100%;
+  height: 1080px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  background: url(../../images/video/video_poster.png) no-repeat;
+}
+
+.video::before {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url(../../images/video/video_shadow_top.png);
+  background-position: center center;
+  background-size: cover;
+  opacity: .3;
+  z-index: 1;
+}

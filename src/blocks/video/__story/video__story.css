@@ -1,0 +1,8 @@
+.video__story {
+  font-size: 18px;
+  font-family: Lora, Arial, Helvetica, sans-serif;
+  color: rgb(249, 244, 233);
+  line-height: 1.5;
+  text-align: center;
+  z-index: 1;
+}

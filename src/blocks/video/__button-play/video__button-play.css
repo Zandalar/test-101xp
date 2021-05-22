@@ -1,0 +1,16 @@
+.video__button-play {
+  width: 236px;
+  height: 234px;
+  background-image: url(../../../images/video/video_icon_play.png);
+  background-position: center center;
+  background-color: transparent;
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  border: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
