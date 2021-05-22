@@ -14,3 +14,8 @@
   transform: translate(-50%, -50%);
   z-index: 1;
 }
+
+.video__button-play:hover {
+  cursor: pointer;
+  opacity: .5;
+}

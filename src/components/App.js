@@ -3,6 +3,7 @@ import Header from './Header';
 import Chars from './Chars';
 import {characters} from '../utils/chars';
 import Video from './Video';
+import Mount from './Mount';
 
 function App() {
   const [activeIndex, setActiveIndex] = useState(0);
@@ -92,6 +93,7 @@ function App() {
       <Header />
       {chars[activeIndex]}
       <Video />
+      <Mount />
     </div>
   );
 }

@@ -1,4 +1,4 @@
-.header__button-next {
+.mount__button-next {
   width: 102px;
   height: 66px;
   background-image: url(../../../images/BTN_scroll_normal.png);
@@ -12,11 +12,11 @@
   box-sizing: border-box;
 }
 
-.header__button-next:hover {
+.mount__button-next:hover {
   background-image: url(../../../images/BTN_scroll_hover.png);
   cursor: pointer;
 }
 
-.header__button-next:active {
+.mount__button-next:active {
   background-image: url(../../../images/BTN_scroll_active.png);
 }

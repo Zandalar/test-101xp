@@ -2,23 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5173a72-d049-4afb-93fd-0960824ef860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/blocks/video/__button-next/video__button-next.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/video/__button-play/video__button-play.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/video/__container/video__container.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/video/__movie/video__movie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/video/__story/video__story.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/video/__title/video__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/video/video.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Video.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/video/video_head.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/video/video_icon_play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/video/video_poster.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/video/video_shadow_top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/videos/bg.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/videos/bg.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/mount/__button-next/mount__button-next.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/mount/__card/mount__card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/mount/__container/mount__container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/mount/__level/mount__level.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/mount/__rating/mount__rating.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/mount/__story/mount__story.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/mount/__title/mount__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/mount/mount.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Mount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/footer_BG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/footer_btn_fb_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/footer_btn_fb_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/footer_btn_fb_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/footer_btn_mail_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/footer_btn_mail_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/footer_btn_mail_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/footer_btn_ok_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/footer_btn_ok_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/footer_btn_ok_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/footer_btn_vk_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/footer_btn_vk_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/footer_btn_vk_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/footer_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/footer/footer_logo_101xp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/mount/mount_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/mount/mount_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/mount/mount_rating_150000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/mount/mount_rating_30000.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/app/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/app/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/chars/__button-next/chars__button-next.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/__button-next/chars__button-next.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/chars/__name/chars__name.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/__name/chars__name.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/header/__button-next/header__button-next.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/header/__button-next/header__button-next.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/video/__button-play/video__button-play.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/video/__button-play/video__button-play.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>

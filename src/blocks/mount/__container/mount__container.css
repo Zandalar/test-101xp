@@ -1,0 +1,6 @@
+.mount__container {
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+  margin: 500px 0 0;
+}

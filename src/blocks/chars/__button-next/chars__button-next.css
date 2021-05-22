@@ -2,7 +2,7 @@
   width: 102px;
   height: 66px;
   background-image: url(../../../images/BTN_scroll_normal.png);
-  background-color: rgba(255, 255, 255, 0);
+  background-color: transparent;
   background-size: contain;
   background-position: center;
   margin: 0;

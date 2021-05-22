@@ -1,0 +1,9 @@
+.mount__level {
+  font-size: 24px;
+  font-family: Lora, Arial, Helvetica, sans-serif;
+  color: rgb(255, 196, 25);
+  line-height: 1.167;
+  text-shadow: 0 5px 30px rgba(35, 27, 32, 0.004);
+  margin: 0;
+  transform: translate(0, -150%);
+}

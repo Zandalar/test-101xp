@@ -1,0 +1,20 @@
+@import url(./__container/mount__container.css);
+@import url(./__title/mount__title.css);
+@import url(./__story/mount__story.css);
+@import url(./__button-next/mount__button-next.css);
+@import url(./__card/mount__card.css);
+@import url(./__level/mount__level.css);
+@import url(./__rating/mount__rating.css);
+
+.mount {
+  width: 100%;
+  height: 993px;
+  background-image: url(../../images/mount/mount_bg.jpg);
+  background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
