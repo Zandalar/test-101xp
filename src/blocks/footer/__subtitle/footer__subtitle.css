@@ -1,7 +1,6 @@
-.chars__story {
-  width: 65%;
+.footer__subtitle {
   font-size: 24px;
   font-family: Lora, Arial, Helvetica, sans-serif;
   color: rgb(249, 244, 233);
-  text-align: center;
+  line-height: 1.125;
 }

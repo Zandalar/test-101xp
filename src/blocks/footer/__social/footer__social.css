@@ -1,0 +1,10 @@
+.footer__social {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 83px);
+  grid-column-gap: 20px;
+  list-style: none;
+  justify-content: center;
+  margin: 0 0 50px;
+  padding: 0;
+}

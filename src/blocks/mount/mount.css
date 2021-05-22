@@ -11,7 +11,7 @@
   height: 993px;
   background-image: url(../../images/mount/mount_bg.jpg);
   background-position: center center;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   display: flex;
   flex-direction: column;

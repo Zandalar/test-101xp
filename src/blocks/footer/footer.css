@@ -1,0 +1,19 @@
+@import url(./__button-play/footer__button-play.css);
+@import url(./__link/footer__link.css);
+@import url(./__logo/footer__logo.css);
+@import url(./__social/footer__social.css);
+@import url(./__social-image/footer__social-image.css);
+@import url(./__social-item/footer__social-item.css);
+@import url(./__subtitle/footer__subtitle.css);
+@import url(./__text/footer__text.css);
+@import url(./__text/_underline/footer__text_underline.css);
+@import url(./__title/footer__title.css);
+
+.footer {
+  width: 100%;
+  height: 900px;
+  background-image: url(../../images/footer/footer_BG.jpg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

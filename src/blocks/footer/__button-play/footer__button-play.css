@@ -1,0 +1,22 @@
+.footer__button-play {
+  width: 565px;
+  height: 234px;
+  background-image: url(../../../images/BTN_play_normal.png);
+  background-color: transparent;
+  background-size: contain;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.footer__button-play:hover {
+  background-image: url(../../../images/BTN_play_hover.png);
+  cursor: pointer;
+}
+
+.footer__button-play:active {
+  background-image: url(../../../images/BTN_play_active.png);
+}

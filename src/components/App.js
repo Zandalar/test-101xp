@@ -4,6 +4,7 @@ import Chars from './Chars';
 import {characters} from '../utils/chars';
 import Video from './Video';
 import Mount from './Mount';
+import Footer from './Footer';
 
 function App() {
   const [activeIndex, setActiveIndex] = useState(0);
@@ -94,6 +95,7 @@ function App() {
       {chars[activeIndex]}
       <Video />
       <Mount />
+      <Footer />
     </div>
   );
 }
