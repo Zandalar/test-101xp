@@ -5,6 +5,14 @@ import vk_logo from '../images/footer/footer_btn_vk_normal.png';
 import fb_logo from '../images/footer/footer_btn_fb_normal.png';
 import ok_logo from '../images/footer/footer_btn_ok_normal.png';
 import mail_logo from '../images/footer/footer_btn_mail_normal.png';
+import vk_logo_hover from '../images/footer/footer_btn_vk_hover.png';
+import fb_logo_hover from '../images/footer/footer_btn_fb_hover.png';
+import ok_logo_hover from '../images/footer/footer_btn_ok_hover.png';
+import mail_logo_hover from '../images/footer/footer_btn_mail_hover.png';
+import vk_logo_active from '../images/footer/footer_btn_vk_active.png';
+import fb_logo_active from '../images/footer/footer_btn_fb_active.png';
+import ok_logo_active from '../images/footer/footer_btn_ok_active.png';
+import mail_logo_active from '../images/footer/footer_btn_mail_active.png';
 
 function Footer() {
   return (

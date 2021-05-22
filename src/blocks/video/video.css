@@ -14,6 +14,8 @@
   align-items: center;
   justify-content: space-between;
   background: url(../../images/video/video_poster.png) no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
 
 .video::before {

@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5173a72-d049-4afb-93fd-0960824ef860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/blocks/footer/__button-play/footer__button-play.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/footer/__link/footer__link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/footer/__logo/footer__logo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/footer/__social-image/footer__social-image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/footer/__social-item/footer__social-item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/footer/__social/footer__social.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/footer/__subtitle/footer__subtitle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/footer/__text/_underline/footer__text_underline.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/footer/__text/footer__text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/footer/__title/footer__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks/footer/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/chars/__story/chars__story.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/__story/chars__story.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/chars/chars.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/chars/chars.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/mount/mount.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/mount/mount.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/video/__movie/video__movie.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/video/__movie/video__movie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/video/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/video/video.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
