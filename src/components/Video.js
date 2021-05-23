@@ -3,21 +3,25 @@ import video1 from '../videos/bg.mp4';
 import video2 from '../videos/bg.webm';
 import title from '../images/video/video_head.png';
 
-function Video() {
+function Video({videoRef, mountRef}) {
   const [isPlayed, setIsPlayed] = useState(false);
-  const videoRef = useRef();
+  const movieRef = useRef();
 
   function handlePlayVideo() {
-    videoRef.current.play();
+    movieRef.current.play();
     setIsPlayed(true);
   }
 
+  function scrollToSection() {
+    mountRef.current.scrollIntoView();
+  }
+
   return (
-    <section className='video'>
+    <section className='video' ref={videoRef}>
       <img className='video__title' src={title} alt='Title' />
       <video
         className='video__movie'
-        ref={videoRef}
+        ref={movieRef}
         width='100%'
         height='auto'
         preload='auto'
@@ -35,7 +39,7 @@ function Video() {
           в кросс-серверных сражениях. Занимай места в PvP- и PvE-топах и получай
           эксклюзивные награды и доступ к магазинам для избранных!
         </p>
-        <button className='video__button-next' type='button' />
+        <button className='video__button-next' type='button' onClick={scrollToSection} />
       </div>
     </section>
   )

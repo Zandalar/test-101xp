@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {useState, useRef} from 'react';
 import Header from './Header';
 import Chars from './Chars';
 import {characters} from '../utils/chars';
@@ -8,6 +8,10 @@ import Footer from './Footer';
 
 function App() {
   const [activeIndex, setActiveIndex] = useState(0);
+  const charsRef = useRef(null);
+  const videoRef = useRef(null);
+  const mountRef = useRef(null);
+  const footerRef = useRef(null);
 
   const chars = [
     <Chars
@@ -28,6 +32,8 @@ function App() {
       onPamelaClick={onPamelaClick}
       onLleynClick={onLleynClick}
       activeIndex={activeIndex}
+      charsRef={charsRef}
+      videoRef={videoRef}
     />,
     <Chars
       name={characters.pamela.name}
@@ -47,6 +53,8 @@ function App() {
       onPamelaClick={onPamelaClick}
       onLleynClick={onLleynClick}
       activeIndex={activeIndex}
+      charsRef={charsRef}
+      videoRef={videoRef}
     />,
     <Chars
       name={characters.lleyn.name}
@@ -66,6 +74,8 @@ function App() {
       onPamelaClick={onPamelaClick}
       onLleynClick={onLleynClick}
       activeIndex={activeIndex}
+      charsRef={charsRef}
+      videoRef={videoRef}
     />,
   ]
 
@@ -91,11 +101,11 @@ function App() {
 
   return (
     <div className="app">
-      <Header />
+      <Header charsRef={charsRef} />
       {chars[activeIndex]}
-      <Video />
-      <Mount />
-      <Footer />
+      <Video videoRef={videoRef} mountRef={mountRef} />
+      <Mount mountRef={mountRef} footerRef={footerRef} />
+      <Footer footerRef={footerRef} />
     </div>
   );
 }

@@ -18,9 +18,15 @@ function Chars({ name,
                  onPamelaClick,
                  onLleynClick,
                  activeIndex,
+                 charsRef,
+                 videoRef,
                }) {
+  function scrollToSection() {
+    videoRef.current.scrollIntoView();
+  }
+
   return (
-    <section className={`chars chars_${name}`}>
+    <section className={`chars chars_${name}`} ref={charsRef} >
       <img className='chars__title' src={chars_title} alt='title' />
       <div className='chars__container'>
         <div className='chars__about'>
@@ -69,7 +75,7 @@ function Chars({ name,
         важная часть игрового сюжета и тонкий механизм настройки
         боевого отряда. Выбери свою фракцию и получай бонусы к мощи!
       </p>
-      <button className='chars__button-next' type='button' />
+      <button className='chars__button-next' type='button' onClick={scrollToSection} />
       <button className='chars__button-next chars__button-next_left' type='button' onClick={onLeftArrowClick} />
       <button className='chars__button-next chars__button-next_right' type='button' onClick={onRightArrowClick} />
     </section>

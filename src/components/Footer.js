@@ -2,9 +2,9 @@ import React from 'react';
 import footer_title from '../images/footer/footer_head.png';
 import footer_logo from '../images/footer/footer_logo_101xp.png';
 
-function Footer() {
+function Footer({footerRef}) {
   return (
-    <footer className='footer'>
+    <footer className='footer' ref={footerRef}>
       <img className='footer__title' src={footer_title} alt='title' />
       <button className='footer__button-play' type='button' />
       <p className='footer__subtitle'>

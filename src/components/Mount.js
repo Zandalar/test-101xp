@@ -3,9 +3,13 @@ import mount_title from '../images/mount/mount_head.png';
 import mount_rating_30k from '../images/mount/mount_rating_30000.png';
 import mount_rating_150k from '../images/mount/mount_rating_150000.png';
 
-function Mount() {
+function Mount({mountRef, footerRef}) {
+  function scrollToSection() {
+    footerRef.current.scrollIntoView();
+  }
+
   return (
-    <section className='mount'>
+    <section className='mount' ref={mountRef}>
       <img className='mount__title' src={mount_title} alt='title' />
       <div className='mount__container'>
         <div className='mount__card'>
@@ -24,7 +28,7 @@ function Mount() {
         уникальные комбинации! Выработай свою стратегию боя и выбери ключевые умения
         для победы над врагами!
       </p>
-      <button className='mount__button-next' type='button' />
+      <button className='mount__button-next' type='button' onClick={scrollToSection} />
     </section>
   )
 }
