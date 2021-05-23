@@ -1,3 +1,10 @@
 .footer__link {
+  width: 83px;
+  height: 91px;
+  background-position: center center;
+  background-size: contain;
+}
 
+.footer__link:hover {
+  cursor: pointer;
 }

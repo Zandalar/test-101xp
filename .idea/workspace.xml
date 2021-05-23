@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5173a72-d049-4afb-93fd-0960824ef860" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/blocks/footer/__link/_fb/footer__link_fb.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/footer/__link/_mail/footer__link_mail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/footer/__link/_ok/footer__link_ok.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks/footer/__link/_vk/footer__link_vk.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/video/__movie/video__movie.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/video/__movie/video__movie.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/video/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/video/video.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__link/footer__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/footer/__link/footer__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__social-image/footer__social-image.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__social-item/footer__social-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/footer/__social-item/footer__social-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__text/_underline/footer__text_underline.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/footer/__text/_underline/footer__text_underline.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/footer/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +113,7 @@
       <updated>1621424347813</updated>
       <workItem from="1621424348997" duration="8276000" />
       <workItem from="1621443313094" duration="831000" />
+      <workItem from="1621764297972" duration="1257000" />
     </task>
     <servers />
   </component>

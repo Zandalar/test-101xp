@@ -1,8 +1,11 @@
 @import url(./__button-play/footer__button-play.css);
 @import url(./__link/footer__link.css);
+@import url(./__link/_fb/footer__link_fb.css);
+@import url(./__link/_mail/footer__link_mail.css);
+@import url(./__link/_ok/footer__link_ok.css);
+@import url(./__link/_vk/footer__link_vk.css);
 @import url(./__logo/footer__logo.css);
 @import url(./__social/footer__social.css);
-@import url(./__social-image/footer__social-image.css);
 @import url(./__social-item/footer__social-item.css);
 @import url(./__subtitle/footer__subtitle.css);
 @import url(./__text/footer__text.css);

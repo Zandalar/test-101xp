@@ -1,0 +1,11 @@
+.footer__link_vk {
+  background-image: url(../../../../images/footer/footer_btn_vk_normal.png);
+}
+
+.footer__link_vk:hover {
+  background-image: url(../../../../images/footer/footer_btn_vk_hover.png);
+}
+
+.footer__link_vk:active {
+  background-image: url(../../../../images/footer/footer_btn_vk_active.png);
+}

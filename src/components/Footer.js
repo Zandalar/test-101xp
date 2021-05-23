@@ -1,18 +1,6 @@
 import React from 'react';
 import footer_title from '../images/footer/footer_head.png';
 import footer_logo from '../images/footer/footer_logo_101xp.png';
-import vk_logo from '../images/footer/footer_btn_vk_normal.png';
-import fb_logo from '../images/footer/footer_btn_fb_normal.png';
-import ok_logo from '../images/footer/footer_btn_ok_normal.png';
-import mail_logo from '../images/footer/footer_btn_mail_normal.png';
-import vk_logo_hover from '../images/footer/footer_btn_vk_hover.png';
-import fb_logo_hover from '../images/footer/footer_btn_fb_hover.png';
-import ok_logo_hover from '../images/footer/footer_btn_ok_hover.png';
-import mail_logo_hover from '../images/footer/footer_btn_mail_hover.png';
-import vk_logo_active from '../images/footer/footer_btn_vk_active.png';
-import fb_logo_active from '../images/footer/footer_btn_fb_active.png';
-import ok_logo_active from '../images/footer/footer_btn_ok_active.png';
-import mail_logo_active from '../images/footer/footer_btn_mail_active.png';
 
 function Footer() {
   return (
@@ -24,24 +12,16 @@ function Footer() {
       </p>
       <ul className='footer__social'>
         <li className='footer__social-item'>
-          <a className='footer__link' href='https://101xp.com/' target='_blank' rel='noreferrer'>
-            <img className='footer__social-image' src={fb_logo} alt='fb link' />
-          </a>
+          <a className='footer__link footer__link_fb' href='https://101xp.com/' target='_blank' rel='noreferrer' />
         </li>
         <li className='footer__social-item'>
-          <a className='footer__link' href='https://101xp.com/' target='_blank' rel='noreferrer'>
-            <img className='footer__social-image' src={vk_logo} alt='vk link' />
-          </a>
+          <a className='footer__link footer__link_vk' href='https://101xp.com/' target='_blank' rel='noreferrer' />
         </li>
         <li className='footer__social-item'>
-          <a className='footer__link' href='https://101xp.com/' target='_blank' rel='noreferrer'>
-            <img className='footer__social-image' src={ok_logo} alt='ok link' />
-          </a>
+          <a className='footer__link footer__link_ok' href='https://101xp.com/' target='_blank' rel='noreferrer' />
         </li>
         <li className='footer__social-item'>
-          <a className='footer__link' href='https://101xp.com/' target='_blank' rel='noreferrer'>
-            <img className='footer__social-image' src={mail_logo} alt='e-mail link' />
-          </a>
+          <a className='footer__link footer__link_mail' href='https://101xp.com/' target='_blank' rel='noreferrer' />
         </li>
       </ul>
       <p className='footer__text'>

@@ -1,0 +1,11 @@
+.footer__link_ok {
+  background-image: url(../../../../images/footer/footer_btn_ok_normal.png);
+}
+
+.footer__link_ok:hover {
+  background-image: url(../../../../images/footer/footer_btn_ok_hover.png);
+}
+
+.footer__link_ok:active {
+  background-image: url(../../../../images/footer/footer_btn_ok_active.png);
+}

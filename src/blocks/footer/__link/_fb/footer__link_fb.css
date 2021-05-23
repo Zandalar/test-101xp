@@ -1,0 +1,11 @@
+.footer__link_fb {
+  background-image: url(../../../../images/footer/footer_btn_fb_normal.png);
+}
+
+.footer__link_fb:hover {
+  background-image: url(../../../../images/footer/footer_btn_fb_hover.png);
+}
+
+.footer__link_fb:active {
+  background-image: url(../../../../images/footer/footer_btn_fb_active.png);
+}

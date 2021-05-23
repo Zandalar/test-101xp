@@ -1,3 +1,4 @@
 .footer__text_underline {
   text-decoration: underline;
+  cursor: pointer;
 }
