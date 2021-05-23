@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/test-101xp/static/css/main.a5e92340.chunk.css",
+    "main.js": "/test-101xp/static/js/main.6d284996.chunk.js",
+    "main.js.map": "/test-101xp/static/js/main.6d284996.chunk.js.map",
+    "runtime-main.js": "/test-101xp/static/js/runtime-main.92feb860.js",
+    "runtime-main.js.map": "/test-101xp/static/js/runtime-main.92feb860.js.map",
+    "static/js/2.dc5ab339.chunk.js": "/test-101xp/static/js/2.dc5ab339.chunk.js",
+    "static/js/2.dc5ab339.chunk.js.map": "/test-101xp/static/js/2.dc5ab339.chunk.js.map",
+    "static/js/3.7dd94ec2.chunk.js": "/test-101xp/static/js/3.7dd94ec2.chunk.js",
+    "static/js/3.7dd94ec2.chunk.js.map": "/test-101xp/static/js/3.7dd94ec2.chunk.js.map",
+    "index.html": "/test-101xp/index.html",
+    "static/css/main.a5e92340.chunk.css.map": "/test-101xp/static/css/main.a5e92340.chunk.css.map",
+    "static/js/2.dc5ab339.chunk.js.LICENSE.txt": "/test-101xp/static/js/2.dc5ab339.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/test-101xp/static/media/video_shadow_top.2cea5f40.png",
+    "static/media/bg.d6f0a61f.mp4": "/test-101xp/static/media/bg.d6f0a61f.mp4",
+    "static/media/bg.d982f2e5.webm": "/test-101xp/static/media/bg.d982f2e5.webm",
+    "static/media/chars_head.34479049.png": "/test-101xp/static/media/chars_head.34479049.png",
+    "static/media/chars_name_Isolda.7eb27135.png": "/test-101xp/static/media/chars_name_Isolda.7eb27135.png",
+    "static/media/chars_name_Lleyn.b023c86e.png": "/test-101xp/static/media/chars_name_Lleyn.b023c86e.png",
+    "static/media/chars_name_Pamela.b4f76dc8.png": "/test-101xp/static/media/chars_name_Pamela.b4f76dc8.png",
+    "static/media/footer_head.97cf71e4.png": "/test-101xp/static/media/footer_head.97cf71e4.png",
+    "static/media/header__logo.1acf9085.png": "/test-101xp/static/media/header__logo.1acf9085.png",
+    "static/media/header__title.087d2f14.png": "/test-101xp/static/media/header__title.087d2f14.png",
+    "static/media/mount_head.ed2a0234.png": "/test-101xp/static/media/mount_head.ed2a0234.png",
+    "static/media/mount_rating_150000.2faa486f.png": "/test-101xp/static/media/mount_rating_150000.2faa486f.png",
+    "static/media/mount_rating_30000.cb28d41f.png": "/test-101xp/static/media/mount_rating_30000.cb28d41f.png",
+    "static/media/video_head.56d758ae.png": "/test-101xp/static/media/video_head.56d758ae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92feb860.js",
+    "static/js/2.dc5ab339.chunk.js",
+    "static/css/main.a5e92340.chunk.css",
+    "static/js/main.6d284996.chunk.js"
+  ]
+}
